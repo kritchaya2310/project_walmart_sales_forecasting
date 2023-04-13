@@ -23,7 +23,6 @@ To bring together all these factors, we create a forecasting model. This model t
 By using a data-driven approach, Walmart can develop a more accurate sales forecast, enabling the company to make informed decisions around inventory, marketing, and promotions. This README.md file serves as a guide to the Walmart sales forecasting process, and the associated code provides the tools necessary to develop an accurate forecast.
 
 ## Related
-Here are train file
 [Google Drive](https://drive.google.com/drive/folders/1f7wyF676pv1qAI2hqgd_RJV0326j2yWw?usp=share_link)
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg)
 

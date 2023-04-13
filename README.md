@@ -24,7 +24,7 @@ By using a data-driven approach, Walmart can develop a more accurate sales forec
 
 ## Related
 Here are train file
-[Google Drive]([https://github.com/matiassingers/awesome-readme](https://drive.google.com/drive/folders/1f7wyF676pv1qAI2hqgd_RJV0326j2yWw?usp=share_link))
+[Google Drive](https://drive.google.com/drive/folders/1f7wyF676pv1qAI2hqgd_RJV0326j2yWw?usp=share_link))
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg)
 
 
